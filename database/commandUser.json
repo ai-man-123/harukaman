@@ -1,0 +1,123 @@
+[
+  {
+    "jid": "601117300150@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#sticker",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6289526060882@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#sticker",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281385639533@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "60147675746@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 2
+      },
+      {
+        "nama": "#donate",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285643969042@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283862143097@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#close",
+        "count": 1
+      },
+      {
+        "nama": "#speed",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "60102810046@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#speed",
+        "count": 7
+      },
+      {
+        "nama": "#group",
+        "count": 1
+      },
+      {
+        "nama": "#listbahasa",
+        "count": 2
+      },
+      {
+        "nama": "#smeme",
+        "count": 2
+      },
+      {
+        "nama": "#menu",
+        "count": 3
+      },
+      {
+        "nama": "#runtime",
+        "count": 1
+      },
+      {
+        "nama": "#cekdrive",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "628891767998@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#donate",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "60189830350@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#speed",
+        "count": 1
+      },
+      {
+        "nama": "#close",
+        "count": 1
+      }
+    ]
+  }
+]
